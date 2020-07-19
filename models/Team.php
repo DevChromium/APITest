@@ -5,7 +5,7 @@
         // DB 
         private $conn;
 
-        // Post props
+        // Team props
         public $id;
         public $name;
         public $uuid;
